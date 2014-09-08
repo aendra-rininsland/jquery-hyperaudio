@@ -1,0 +1,28 @@
+{
+  "name": "hyperaudio",
+  "title": "Hyperaudio for jQuery",
+  "description": "Easily setup Popcorn.js to use Hyperaud.io transcripts",
+  "version": "0.0.1",
+  "homepage": "https://github.com/times/jquery-hyperaudio.git",
+  "author": {
+    "name": "Ændrew Rininsland",
+    "url": "https://github.com/times"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/times/jquery-hyperaudio.git"
+  },
+  "bugs": "https://github.com/times/jquery-hyperaudio/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "~1.11.0"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ]
+}
