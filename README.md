@@ -1,4 +1,5 @@
 # Hyperaudio for jQuery
+## 2014 [Ændrew Rininsland](http://www.github.com/aendrew), [The Times and Sunday Times](http://www.github.com/times)
 
 Easily setup Popcorn.js to use Hyperaud.io transcripts
 
@@ -16,7 +17,7 @@ In your web page:
 <script src="dist/hyperaudio.min.js"></script>
 <script>
 jQuery(function($) {
-  $.awesome(); // "awesome"
+  $('video#hyperaudio').hyperaudio({'elem': '.transcript a'}); //Set 'elem' to the timecoded elements from Hyperaudio Maker.
 });
 </script>
 ```
